@@ -1,3 +1,5 @@
+# six-degrees-of-kevin-bacon
+
 ## Description
 - This project is from HarvardX CS50's Introduction to Artificial Intelligence with Python
 - This program determines how many "degrees of separation" apart two actors are
